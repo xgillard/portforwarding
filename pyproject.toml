@@ -1,0 +1,8 @@
+[project]
+name = "portforward"
+version = "0.1.0"
+description = "A simple tool to forward a tcp port."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+]
